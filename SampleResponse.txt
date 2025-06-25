@@ -1,0 +1,16 @@
+python3 task_agent.py  
+------------------------------
+High Priority:
+- Go the gym atleast 4 days
+
+Medium Priority:
+- Set a reminder to go for a walk every morning
+- Do work atleast for 3 days
+
+Low Priority:
+- Write a newsletter on interesting topic each month
+- write a book review every month
+- Go for atleast 30 min walk
+- prepare a well balanced meal
+- Make bed everyday
+- read 15 pages everyday for 30 min
